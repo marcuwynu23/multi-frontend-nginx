@@ -1,0 +1,17 @@
+install {
+  $ cd app1 && npm i react-router-dom 
+  $ cd app2 && npm i react-router-dom 
+  $ cd app3 && npm i react-router-dom 
+}
+
+dev {
+  + cd app1 && npm run dev
+  + cd app2 && npm run dev
+  + cd app3 && npm run dev
+}
+
+build {
+  $ cd app1 && npm run build
+  $ cd app2 && npm run build
+  $ cd app3 && npm run build
+}
