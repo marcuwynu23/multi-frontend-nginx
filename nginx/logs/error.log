@@ -1,1 +1,0 @@
-2025/06/11 16:31:57 [emerg] 4656#3520: CreateFile() "D:\Projects\experiments\multi-frontend-nginx\nginx/conf/mime.types" failed (2: The system cannot find the file specified) in D:\Projects\experiments\multi-frontend-nginx\nginx/conf/nginx.conf:15
